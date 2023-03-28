@@ -1,18 +1,18 @@
 {
-  "id": "dev.replugged.ThemeTemplate",
-  "name": "Theme Template",
-  "description": "A theme template",
+  "id": "dev.SlippingGitty.Espresso",
+  "name": "Espresso",
+  "description": "A soft and colorful Discord theme",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "vozer 🎀",
+    "discordID": "359175647257690113",
+    "github": "SlippingGittys-Discord-Themes"
   },
-  "version": "1.0.0",
+  "version": "2.0.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/theme-template"
+    "id": "SlippingGittys-Discord-Themes/Espresso-Discord-Theme"
   },
   "license": "MIT",
   "type": "replugged-theme",
-  "main": "src/main.css"
+  "main": "discordEspresso.theme.css"
 }
